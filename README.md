@@ -1,6 +1,6 @@
 ### Welcome
 
-I have been developing with Microsoft technologies for over 30 years and specialize in business framework development. One area of my work is programming time information. 
+Experienced Microsoft developer focused on software engineering, domain-specific frameworks, and open source.
 
 I am currently working on the open source project [Payroll Engine] (https://github.com/Payroll-Engine/PayrollEngine).
 
